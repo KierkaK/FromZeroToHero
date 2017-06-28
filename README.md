@@ -26,3 +26,11 @@ During our classes we will use **PyCharm Community Edition**: https://www.jetbra
 
 ### 5. Browser
 I also expect to see as your browser Google Chrome of Firefox.
+
+## Setup corporate PROXY
+*You need it **only** while you work inside corporate network!*
+To setup proxy settings you have to define envirimental variables for your **User** (Win+R -> SystemPropertiesAdvanced). Please add two variables:
+| Variable | Value |
+|---|---|
+| http_proxy | http://pxgot4.srv.volvo.com:8080 |
+| https_proxy | http://httppxgot.srv.volvo.com:8080 |
