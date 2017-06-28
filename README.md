@@ -12,6 +12,14 @@ If you have some questions on instalation process fill free to ask me.
 ### 3. Download and install Python
 Yes, we're going to use Python as first programming language for backend. So distributive can be obtained at: https://www.python.org/ftp/python/3.6.1/python-3.6.1.exe . Installation process is simple, but please remember installation folder, you will need it later.
 
+After installation of Python you will need to reboot your PC and update internal Python libraries and install some new. Run following commands from Windows command lime (Win+R -> cmd):
+```
+pip3 install --upgrade pip
+pip3 install jupyter
+pip3 install Flask
+```
+*This list can be updated in future.*
+
 ### 4. Download and install IDE
 *IDE - is 'Integrated Development Environment'*.
 During ower classes we will use **PyCharm Community Edition**: https://www.jetbrains.com/pycharm/
