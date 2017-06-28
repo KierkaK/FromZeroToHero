@@ -1,4 +1,4 @@
-# FromZeroToHero
+# From Zero to Hero
 Bellow short instructions how to prepare your work environment to programming classes.
 
 ### 1. Create GitHub account
