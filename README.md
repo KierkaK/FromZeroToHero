@@ -17,4 +17,4 @@ Yes, we're going to use Python as first programming language for backend. So dis
 During ower classes we will use **PyCharm Community Edition**: https://www.jetbrains.com/pycharm/
 
 ### 5. Browser
-I also expect to see as your brouser Google Chrome of Firefox.
+I also expect to see as your browser Google Chrome of Firefox.
