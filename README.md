@@ -13,7 +13,7 @@ If you have some questions on instalation process fill free to ask me.
 Yes, we're going to use Python as first programming language for backend. So distributive can be obtained at: https://www.python.org/ftp/python/3.6.1/python-3.6.1.exe . Installation process is simple, but please remember installation folder, you will need it later.
 
 ### 4. Download and install IDE
-*IDE - is 'Integrated Development Environment'*
+*IDE - is 'Integrated Development Environment'*.
 During ower classes we will use **PyCharm Community Edition**: https://www.jetbrains.com/pycharm/
 
 ### 5. Browser
