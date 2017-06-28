@@ -22,7 +22,7 @@ pip3 install Flask
 
 ### 4. Download and install IDE
 *IDE - is 'Integrated Development Environment'*.
-During ower classes we will use **PyCharm Community Edition**: https://www.jetbrains.com/pycharm/
+During our classes we will use **PyCharm Community Edition**: https://www.jetbrains.com/pycharm/
 
 ### 5. Browser
 I also expect to see as your browser Google Chrome of Firefox.
